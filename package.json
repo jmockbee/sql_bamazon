@@ -1,0 +1,19 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/jmockbee/sql_bamazon/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmockbee/sql_bamazon.git"
+  },
+  "author": "Jon Mockbee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmockbee/sql_bamazon/issues"
+  },
+  "homepage": "https://github.com/jmockbee/sql_bamazon#readme"
+}
