@@ -1,10 +1,11 @@
-1001,swiffer,household goods,10.00,2
-1002,dishsoap,household goods,13.55,8
-1003,snow shovel,hardware,20.00,33
-1004,rock salt,hardware,5.00,10
-1005,pencils,office supplies,2.95,30
-1006,staples,office supplies, 5.00,20
-1007,fabric softener,household goods,8.00,3
-1008,dog food,pet supplies,50.00,6
-1009,dog treats, pet supplies, 16.00, 18
-1010,light bulbs,hardware,40.00,40 
+item_id,product_name,department_name,price,stock_quantity
+1001,swiffer,"household goods",10.0000,2
+1002,dishsoap,"household goods",13.5500,8
+1003,"snow shovel",hardware,20.0000,33
+1004,"rock salt",hardware,5.0000,10
+1005,pencils,"office supplies",2.9500,30
+1006,staples,"office supplies",5.0000,20
+1007,"fabric softener","household goods",8.0000,3
+1008,"dog food","pet supplies",50.0000,6
+1009,"dog treats"," pet supplies",16.0000,18
+1010,"light bulbs",hardware,40.0000,40

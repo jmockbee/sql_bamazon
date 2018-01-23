@@ -5,8 +5,8 @@ USE bamazonDB;
 
 	
 CREATE TABLE products (
+  
   position INT NOT NULL,
-
   item_id INT NULL,
   product_name VARCHAR(100) NULL,
   department_name VARCHAR(100) NULL,
