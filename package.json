@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jmockbee/sql_bamazon/issues"
   },
-  "homepage": "https://github.com/jmockbee/sql_bamazon#readme"
+  "homepage": "https://github.com/jmockbee/sql_bamazon#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "mysql": "^2.15.0"
+  }
 }
