@@ -46,7 +46,7 @@ function runSearch() {
         "Search for how much product is available in store"
       ]
 
-      // fix this with james 
+      
     })
     .then(function (answer) {
       switch (answer.action) {
@@ -76,7 +76,7 @@ function item_idSearch() {
       type: "input",
       message: "What is the id of the product would you like to search for?"
     })
-    // having problems interpreting this 
+    
     .then(function (answer) {
      var userchoice = parseInt(answer.item);
       
